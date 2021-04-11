@@ -1,7 +1,7 @@
 # dcase-2020-task1-subtaskA
 
 This repository includes our metadata and code for the submission of IMT Atlantique - BRAIN to the DCASE 2020 challenge, Task 1, subtask A. 
-
+http://dcase.community/challenge2021/task-acoustic-scene-classification
 
 
 This github takes the basis of the project code https://github.com/brain-bzh/dcase-2020-task1-subtaskB . Here we try to adapt and deepen the work done to a different task of the challenge.
@@ -12,7 +12,7 @@ Code is based on pytorch (1.5), sklearn, pandas, numpy, scipy.
 
 ### 1. Resample audio at 18 kHz
 
-Dataset from TAU Urban Acoustic Scenes 2020 3Class can be download at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3670185.svg)](https://doi.org/10.5281/zenodo.3670185)
+Dataset from TAU Urban Acoustic Scenes 2020 3Class can be download at https://zenodo.org/record/3819968#.YHMeVOgzZPY
 
 To resample run,
 ```
