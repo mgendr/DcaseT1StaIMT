@@ -1,12 +1,11 @@
-# dcase-2020-task1-subtaskB
+# dcase-2020-task1-subtaskA
 
 This repository includes our metadata and code for the submission of IMT Atlantique - BRAIN to the DCASE 2020 challenge, Task 1, subtask A. 
 
-Metadata
---
+
 
 This github takes the basis of the project code https://github.com/brain-bzh/dcase-2020-task1-subtaskB . Here we try to adapt and deepen the work done to a different task of the challenge.
---
+
 
 
 Code is based on pytorch (1.5), sklearn, pandas, numpy, scipy.
