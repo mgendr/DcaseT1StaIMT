@@ -12,7 +12,7 @@ Code is based on pytorch (1.5), sklearn, pandas, numpy, scipy.
 
 ### 1. Resample audio at 18 kHz
 
-Dataset from TAU Urban Acoustic Scenes 2020 3Class can be download at https://zenodo.org/record/3819968#.YHMeVOgzZPY
+Dataset from TAU Urban Acoustic Scenes 2020 10Class can be download at https://zenodo.org/record/3819968#.YHMeVOgzZPY
 
 To resample run,
 ```
